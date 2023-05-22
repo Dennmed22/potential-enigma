@@ -15,7 +15,7 @@ allows user to create read me file
   - [Contributing](#contributing)
   - [Tests](#tests)
   - [README Video LINK](#readme-video-link)
-  - [Questions](#questions)
+  - [Questions?](#questions)
 
 ## Installation
 
@@ -46,7 +46,7 @@ npm test
 
 https://drive.google.com/file/d/1Qkwcskh5i_ektjJEVV8nc9qF4kqn3LvB/view
 
-## Questions
+## Questions?
 
 If you have any questions about the repo, open an issue or contact me directly at medrano.dennis@yahoo.com. You can find more of my work at [Dennmed22](https://github.com/Dennmed22/).
 
